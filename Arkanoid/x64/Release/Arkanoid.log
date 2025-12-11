@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,65): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,65): warning C4244:         with
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,65): warning C4244:         [
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,65): warning C4244:             T=unsigned int
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,65): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,40): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,40): warning C4244:         with
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,40): warning C4244:         [
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,40): warning C4244:             T=unsigned int
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(23,40): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\main.cpp(6,10): error C1083: Nie można otworzyć pliku dołącz: 'Poziom.h': No such file or directory

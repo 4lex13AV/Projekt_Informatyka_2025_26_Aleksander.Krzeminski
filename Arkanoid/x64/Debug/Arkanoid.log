@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,71): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,71): warning C4244:         with
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,71): warning C4244:         [
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,71): warning C4244:             T=unsigned int
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,71): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,46): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,46): warning C4244:         with
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,46): warning C4244:         [
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,46): warning C4244:             T=unsigned int
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Paletka.h(24,46): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,61): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,61): warning C4244:         with
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,61): warning C4244:         [
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,61): warning C4244:             T=unsigned int
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,61): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,38): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,38): warning C4244:         with
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,38): warning C4244:         [
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,38): warning C4244:             T=unsigned int
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Pilka.h(29,38): warning C4244:         ]
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\Menu.h(52,21): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\HUD.h(43,38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
+  Arkanoid.vcxproj -> C:\Users\olusk\OneDrive\Pulpit\PROJEKT INFORMATYKA\Arkanoid\x64\Debug\Arkanoid.exe
