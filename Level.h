@@ -11,12 +11,12 @@ private:
 public:
     Level() {}
 
-    // Tworzymy siatkê 7 kolumn × 5 wierszy
+    // Tworzymy siatkÃª 7 kolumn Ã— 5 wierszy
     void generate(float screenW, float screenH)
     {
         bloki.clear();
 
-        const int COLS = 3;
+        const int COLS = 7;
         const int ROWS = 3;
         const float BLOCK_W = 72;
         const float BLOCK_H = 30;
@@ -24,7 +24,7 @@ public:
 
         float totalWidth = COLS * BLOCK_W + (COLS - 1) * MARGIN;
         float startX = (screenW - totalWidth) / 2.f;
-        float startY = 100;  // odsuniêcie od góry
+        float startY = 100;  // odsuniÃªcie od gÃ³ry
 
         for (int r = 0; r < ROWS; r++)
         {
