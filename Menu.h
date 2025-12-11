@@ -15,6 +15,8 @@ private:
 
     Text title;
 
+    Text autorText;
+
     // ekran sterowania
     Text sterowanieTytul;
     Text sterowanieOpis;
@@ -35,6 +37,12 @@ public:
 
         float titleX = windowWidth / 2.f - title.getLocalBounds().width / 2.f;
         title.setPosition(titleX, 0);
+
+        autorText.setFont(font);
+        autorText.setCharacterSize(22);
+        autorText.setFillColor(Color(180, 180, 180));
+        autorText.setString("TW√ìRCA: ALEKSANDER KRZEMINSKI / S199283 / ARISS");
+        autorText.setPosition(15, 600);
 
         // 4 opcje menu
         opcje.resize(4);
@@ -92,12 +100,13 @@ public:
         }
 
         window.draw(title);
+        window.draw(autorText);
 
         for (auto& t : opcje)
             window.draw(t);
     }
 
-    // WEJåCIE DO TRYBU STEROWANIA
+    // WEJ≈öCIE DO TRYBU STEROWANIA
     void wlaczSterowanie()
     {
         trybSterowanie = true;
@@ -150,7 +159,7 @@ public:
             return -1;
         }
 
-        // MENU G£”WNE
+        // MENU G≈Å√ìWNE
         if (event.type == sf::Event::KeyPressed)
         {
             if (event.key.code == sf::Keyboard::Up)      moveUp();
